@@ -64,6 +64,26 @@
     ],
     "fittings": [
       {
+        "description": "1/4 Brass Union",
+        "partNumber": "91200:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/63/75/PI_Asset_1136375.jpg"
+      },
+      {
+        "description": "3/8 Brass Union",
+        "partNumber": "91201:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
+      },
+      {
+        "description": "1/2 Brass Union",
+        "partNumber": "91202:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
+      },
+      {
+        "description": "5/8 Brass Union",
+        "partNumber": "91203:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
+      },
+      {
         "description": "3/4 Brass Union",
         "partNumber": "91204:IMS",
         "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/30/60/PI_Asset_1313060.jpg"
