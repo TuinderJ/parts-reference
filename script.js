@@ -26,9 +26,25 @@ const convert = {
       const char = string[i];
       if (i == 0) {
         returnValue += char.toUpperCase();
+      } else if (char === char.toUpperCase()) {
+        returnValue += ` ${char}`;
       } else {
-        // TODO: Add logic to add spacing between words. This only works for one word strings right now.
+        returnValue += char;
+      }
+    }
+    return returnValue;
+  },
+
+  toKebabCase: (string) => {
+    let returnValue = '';
+    for (let i = 0; i < string.length; i++) {
+      const char = string[i];
+      if (i == 0) {
         returnValue += char.toLowerCase();
+      } else if (char === char.toUpperCase()) {
+        returnValue += `-${char.toLowerCase()}`;
+      } else {
+        returnValue += char;
       }
     }
     return returnValue;
@@ -38,21 +54,63 @@ const convert = {
 function onCategoryChange(event) {
   const container = document.getElementById('card-container');
   container.innerHTML = '';
+
   const category = data.categories[event.target.value];
   console.log('changed to', event.target.value);
-  category.forEach((part) => {
-    const card = new Card(part);
-    card.addToDoc(container);
-  });
+
+  for (key in category.groups) {
+    new Group(key, category.groups[key]);
+  }
+  setHeaderLinks(category.groups);
+}
+
+function setHeaderLinks(groups) {
+  const headerLinks = document.getElementById('header-links');
+  headerLinks.innerHTML = '';
+
+  if (Object.keys(groups).length <= 1) return;
+
+  for (group in groups) {
+    const li = document.createElement('li');
+
+    const a = document.createElement('a');
+    li.appendChild(a);
+    a.textContent = convert.toTextCase(group);
+    a.href = `#${convert.toKebabCase(group)}`;
+
+    headerLinks.appendChild(li);
+  }
+}
+
+class Group {
+  constructor(group, parts) {
+    this.group = group;
+    this.parts = parts;
+
+    const div = document.createElement('div');
+    div.classList.add('group');
+    div.id = convert.toKebabCase(group);
+
+    const h2 = document.createElement('h2');
+    div.appendChild(h2);
+    h2.textContent = convert.toTextCase(group);
+
+    const container = document.createElement('div');
+    div.appendChild(container);
+    container.classList.add('card-container');
+
+    this.parts.forEach((part) => new Card(part, container));
+
+    document.getElementById('card-container').appendChild(div);
+  }
 }
 
 class Card {
-  constructor(part) {
+  constructor(part, parentElement) {
     this.part = part;
-  }
 
-  addToDoc(parentElement) {
     if (!this.part.description) return;
+
     const MISSING_IMAGE_URL = 'https://partsconnect.rushcare.com/assets/img/370X370_No_Image.png';
 
     const card = document.createElement('div');
@@ -61,9 +119,11 @@ class Card {
       navigator.clipboard.writeText(this.part.partNumber);
       const toaster = document.querySelector('.toaster');
       toaster.style.opacity = 1;
+
       await new Promise((resolve) => setTimeout(resolve, 500));
       toaster.style.transition = 'opacity 1s ease';
       toaster.style.opacity = 0;
+
       await new Promise((resolve) => setTimeout(resolve, 1000));
       toaster.style.transition = '';
     });
