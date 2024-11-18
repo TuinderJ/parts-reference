@@ -41,7 +41,6 @@ function onCategoryChange(event) {
   const category = data.categories[event.target.value];
   console.log('changed to', event.target.value);
   category.forEach((part) => {
-    console.log('adding', part);
     const card = new Card(part);
     card.addToDoc(container);
   });
@@ -53,8 +52,21 @@ class Card {
   }
 
   addToDoc(parentElement) {
+    if (!this.part.description) return;
+    const MISSING_IMAGE_URL = 'https://partsconnect.rushcare.com/assets/img/370X370_No_Image.png';
+
     const card = document.createElement('div');
     card.classList.add('card');
+    card.addEventListener('click', async () => {
+      navigator.clipboard.writeText(this.part.partNumber);
+      const toaster = document.querySelector('.toaster');
+      toaster.style.opacity = 1;
+      await new Promise((resolve) => setTimeout(resolve, 500));
+      toaster.style.transition = 'opacity 1s ease';
+      toaster.style.opacity = 0;
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+      toaster.style.transition = '';
+    });
 
     const header = document.createElement('div');
     card.appendChild(header);
@@ -70,7 +82,7 @@ class Card {
 
     const image = document.createElement('img');
     card.appendChild(image);
-    image.src = this.part.imageURL;
+    image.src = this.part.imageURL || MISSING_IMAGE_URL;
     image.alt = this.part.description;
 
     parentElement.appendChild(card);

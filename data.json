@@ -1,5 +1,72 @@
 {
   "categories": {
+    "hoses": [
+      {
+        "description": "1/4\" Air Line",
+        "partNumber": "90924:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
+      },
+      {
+        "description": "3/8\" Air Line",
+        "partNumber": "90925:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
+      },
+      {
+        "description": "1/2\" Air Line",
+        "partNumber": "90926:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
+      },
+      {
+        "description": "5/8\" Air Line",
+        "partNumber": "90927:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
+      },
+      {
+        "description": "3/4\" Air Line",
+        "partNumber": "90928:IMS",
+        "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
+      },
+      {
+        "description": "1/4\" Silicone Hose",
+        "partNumber": "5526-025X25:R28",
+        "imageURL": ""
+      },
+      {
+        "description": "3/8\" Silicone Hose",
+        "partNumber": "5526-038X600:R28",
+        "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X25.gif"
+      },
+      {
+        "description": "1/2\" Silicone Hose",
+        "partNumber": "5526-050X500:R28",
+        "imageURL": ""
+      },
+      {
+        "description": "3/4\" Silicone Hose",
+        "partNumber": "5526-075X300:R28",
+        "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif"
+      },
+      {
+        "description": "1\" Silicone Hose",
+        "partNumber": "5526-100X200:R28",
+        "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif"
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
+      }
+    ],
     "fittings": [
       {
         "description": "3/4 Brass Union",
@@ -10,6 +77,35 @@
     "lights": [
       {
         "description": "License Plate - Fish Eye",
+        "partNumber": "",
+        "imageURL": ""
+      }
+    ],
+    "ford": [
+      {
+        "description": "Yellow Coolant",
+        "partNumber": "VC13DLG:FRD",
+        "imageURL": "https://imgs.search.brave.com/M5RTJ_QGih5Ra2r2HSc-1De2q2RmLaM_wK-uWX4jsQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSejV4b0p5Q0wu/anBn"
+      }
+    ],
+    "misc": [
+      {
+        "description": "Peterbilt AC Seal Kit",
+        "partNumber": "790-1349:R51",
+        "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif"
+      },
+      {
+        "description": "Red Coolant 50/50",
+        "partNumber": "ZXEDRU1:VLV",
+        "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif"
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
+      },
+      {
+        "description": "",
         "partNumber": "",
         "imageURL": ""
       }
