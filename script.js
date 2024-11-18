@@ -4,9 +4,7 @@ main();
 async function main() {
   const response = await fetch('./data.json');
   data = await response.json();
-  console.log('---------------------------------------------------------------------------');
   console.log(data);
-  console.log('---------------------------------------------------------------------------');
 
   const categories = document.getElementById('category');
   for (const category in data.categories) {
