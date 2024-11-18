@@ -91,6 +91,11 @@ header select {
   overflow: hidden;
   background-color: var(--bg-secondary);
   cursor: pointer;
+  transition: scale 0.25s ease-out;
+}
+
+.card:hover {
+  scale: 1.025;
 }
 
 .card-header {
