@@ -1,0 +1,64 @@
+:root {
+  --bg-primary: rgb(238, 177, 17);
+  --bg-secondary: rgb(245, 245, 245);
+  --bg-main: rgb(169, 169, 169);
+  --bg-tertiary: rgb(147, 241, 241);
+}
+
+body {
+  background-color: var(--bg-main);
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+
+header {
+  text-align: center;
+  padding: 2rem;
+  margin-bottom: 4rem;
+  background-color: black;
+  color: white;
+}
+
+header h1 {
+  margin: 0 0 1rem 0;
+}
+
+header select {
+  text-align: center;
+  font-size: larger;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: var(--bg-tertiary);
+  padding: 1rem;
+}
+
+/* Body */
+
+#card-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  display: grid;
+  overflow: hidden;
+  background-color: var(--bg-secondary);
+}
+
+.card-header {
+  display: block;
+  background-color: var(--bg-primary);
+  width: 100%;
+  text-align: center;
+}
+
+.card img {
+  width: 15rem;
+  padding: 0 2rem;
+  mix-blend-mode: darken;
+}
