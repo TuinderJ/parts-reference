@@ -60,11 +60,6 @@
         "description": "",
         "partNumber": "",
         "imageURL": ""
-      },
-      {
-        "description": "",
-        "partNumber": "",
-        "imageURL": ""
       }
     ],
     "fittings": [
@@ -86,6 +81,21 @@
         "description": "Yellow Coolant",
         "partNumber": "VC13DLG:FRD",
         "imageURL": "https://imgs.search.brave.com/M5RTJ_QGih5Ra2r2HSc-1De2q2RmLaM_wK-uWX4jsQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSejV4b0p5Q0wu/anBn"
+      },
+      {
+        "description": "DEF",
+        "partNumber": "PM27JUG:FRD",
+        "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg"
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
+      },
+      {
+        "description": "",
+        "partNumber": "",
+        "imageURL": ""
       }
     ],
     "misc": [
