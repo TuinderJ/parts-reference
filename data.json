@@ -54,16 +54,6 @@
             "description": "1\" Silicone Hose",
             "partNumber": "5526-100X200:R28",
             "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif"
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
           }
         ]
       }
@@ -99,17 +89,6 @@
         ]
       }
     },
-    "lights": {
-      "groups": {
-        "truckLite": [
-          {
-            "description": "License Plate - Fish Eye",
-            "partNumber": "",
-            "imageURL": ""
-          }
-        ]
-      }
-    },
     "ford": {
       "groups": {
         "fluids": [
@@ -122,22 +101,34 @@
             "description": "DEF",
             "partNumber": "PM27JUG:FRD",
             "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg"
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
           }
         ]
       }
     },
     "misc": {
       "groups": {
+        "wiperBlades": [
+          {
+            "description": "16\" Blade",
+            "partNumber": "37-160:TCG",
+            "imageURL": ""
+          },
+          {
+            "description": "18\" Blade",
+            "partNumber": "37-180:TCG",
+            "imageURL": ""
+          },
+          {
+            "description": "20\" Blade",
+            "partNumber": "37-205:TCG",
+            "imageURL": ""
+          },
+          {
+            "description": "22\" Blade",
+            "partNumber": "37-225:TCG",
+            "imageURL": ""
+          }
+        ],
         "misc": [
           {
             "description": "Peterbilt AC Seal Kit",
@@ -148,16 +139,6 @@
             "description": "Red Coolant 50/50",
             "partNumber": "ZXEDRU1:VLV",
             "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif"
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
-          },
-          {
-            "description": "",
-            "partNumber": "",
-            "imageURL": ""
           }
         ]
       }
