@@ -109,6 +109,6 @@ header select {
   height: 15rem;
   width: 15rem;
   object-fit: contain;
-  padding: 0 2rem;
+  padding: 0.5rem 2rem;
   mix-blend-mode: darken;
 }
