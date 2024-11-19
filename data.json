@@ -3,143 +3,88 @@
     "hoses": {
       "groups": {
         "airLines": [
-          {
-            "description": "1/4\" Air Line",
-            "partNumber": "90924:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
-          },
-          {
-            "description": "3/8\" Air Line",
-            "partNumber": "90925:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
-          },
-          {
-            "description": "1/2\" Air Line",
-            "partNumber": "90926:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
-          },
-          {
-            "description": "5/8\" Air Line",
-            "partNumber": "90927:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
-          },
-          {
-            "description": "3/4\" Air Line",
-            "partNumber": "90928:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg"
-          }
+          { "description": "1/4\" Air Line", "partNumber": "90924:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "3/8\" Air Line", "partNumber": "90925:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "1/2\" Air Line", "partNumber": "90926:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "5/8\" Air Line", "partNumber": "90927:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "3/4\" Air Line", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
         ],
         "siliconeHoses": [
-          {
-            "description": "1/4\" Silicone Hose",
-            "partNumber": "5526-025X25:R28",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif"
-          },
-          {
-            "description": "3/8\" Silicone Hose",
-            "partNumber": "5526-038X600:R28",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif"
-          },
-          {
-            "description": "1/2\" Silicone Hose",
-            "partNumber": "5526-050X500:R28",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif"
-          },
-          {
-            "description": "3/4\" Silicone Hose",
-            "partNumber": "5526-075X300:R28",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif"
-          },
-          {
-            "description": "1\" Silicone Hose",
-            "partNumber": "5526-100X200:R28",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif"
-          }
+          { "description": "1/4\" Silicone Hose", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "3/8\" Silicone Hose", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "1/2\" Silicone Hose", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "3/4\" Silicone Hose", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
+          { "description": "1\" Silicone Hose", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
         ]
       }
     },
     "fittings": {
       "groups": {
         "brassUnions": [
-          {
-            "description": "1/4 Brass Union",
-            "partNumber": "91200:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/63/75/PI_Asset_1136375.jpg"
-          },
-          {
-            "description": "3/8 Brass Union",
-            "partNumber": "91201:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
-          },
-          {
-            "description": "1/2 Brass Union",
-            "partNumber": "91202:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
-          },
-          {
-            "description": "5/8 Brass Union",
-            "partNumber": "91203:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg"
-          },
-          {
-            "description": "3/4 Brass Union",
-            "partNumber": "91204:IMS",
-            "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/30/60/PI_Asset_1313060.jpg"
-          }
+          { "description": "1/4 Brass Union", "partNumber": "91200:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/63/75/PI_Asset_1136375.jpg" },
+          { "description": "3/8 Brass Union", "partNumber": "91201:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg" },
+          { "description": "1/2 Brass Union", "partNumber": "91202:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg" },
+          { "description": "5/8 Brass Union", "partNumber": "91203:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg" },
+          { "description": "3/4 Brass Union", "partNumber": "91204:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/30/60/PI_Asset_1313060.jpg" }
         ]
       }
     },
     "ford": {
       "groups": {
-        "fluids": [
-          {
-            "description": "Yellow Coolant",
-            "partNumber": "VC13DLG:FRD",
-            "imageURL": "https://imgs.search.brave.com/M5RTJ_QGih5Ra2r2HSc-1De2q2RmLaM_wK-uWX4jsQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSejV4b0p5Q0wu/anBn"
-          },
-          {
-            "description": "DEF",
-            "partNumber": "PM27JUG:FRD",
-            "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg"
-          }
+        "engineOil": [
+          { "description": "5W20 Qt Bottle", "partNumber": "XO0W20QFS:FRD", "imageURL": "https://parts.ford.com/images/photo-images/890/299890.jpg" },
+          { "description": "5W20 Qt Bottle", "partNumber": "XO5W20Q1SP:FRD", "imageURL": "https://parts.ford.com/images/photo-images/848/299848.jpg" },
+          { "description": "5W30 Qt Bottle", "partNumber": "XO5W30Q1SP:FRD", "imageURL": "https://parts.ford.com/images/photo-images/045/300045.jpg" },
+          { "description": "5W40 Qt Bottle", "partNumber": "XO5W40QSD:FRD", "imageURL": "https://parts.ford.com/images/photo-images/491/300491.jpg" },
+          { "description": "5W40 5Qt Bottle", "partNumber": "XO5W405Q3SD:FRD", "imageURL": "https://parts.ford.com/images/photo-images/818/341818.jpg" },
+          { "description": "10W30 Qt Bottle", "partNumber": "XO10W30QSDF:FRD", "imageURL": "https://parts.ford.com/images/photo-images/989/299989.jpg" },
+          { "description": "15W40 Qt Bottle", "partNumber": "XO15W40QSDF:FRD", "imageURL": "https://parts.ford.com/images/photo-images/043/300043.jpg" }
+        ],
+        "transmissionOil": [
+          { "description": "Mercon V", "partNumber": "XT5QMC:FRD", "imageURL": "https://parts.ford.com/images/photo-images/947/152947.jpg" },
+          { "description": "Mercon LV", "partNumber": "XT10QLVC:FRD", "imageURL": "https://parts.ford.com/images/photo-images/928/152928.jpg" },
+          { "description": "Mercon ULV", "partNumber": "XT12QULV:FRD", "imageURL": "https://parts.ford.com/images/photo-images/859/299859.jpg" }
+        ],
+        "gearOil": [
+          { "description": "75W85 Qt Bottle", "partNumber": "XY75W85QL:FRD", "imageURL": "" },
+          { "description": "80W90 Qt Bottle", "partNumber": "XY80W90QL:FRD", "imageURL": "" }
+        ],
+        "misc": [
+          { "description": "Gold Coolant", "partNumber": "VC7DILB:FRD", "imageURL": "https://parts.ford.com/images/photo-images/201/144201.jpg" },
+          { "description": "Yellow Coolant", "partNumber": "VC13DLG:FRD", "imageURL": "https://parts.ford.com/images/photo-images/110/307110.jpg" },
+          { "description": "DEF", "partNumber": "PM27JUG:FRD", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg" }
+        ]
+      }
+    },
+    "exhaust": {
+      "groups": {
+        "gaskets": [
+          { "description": "Cummins 4\" Thin Gasket", "partNumber": "2866636:CE", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CMMNS_2866636-LR.gif" },
+          { "description": "Cummins 5\" Thin Gasket", "partNumber": "2866337:CE", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CMMNS_2866337-PCR.gif" },
+          { "description": "Cummins 4\" Fat Gasket", "partNumber": "2880214:CE", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CMMNS_2880214-LR.gif" },
+          { "description": "Cummins 5\" Fat Gasket", "partNumber": "2880215:CE", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CMMNS_2880215-PCR.gif" },
+          { "description": "Paccar 4\" Thin Gasket", "partNumber": "1844896PE:PB", "imageURL": "" },
+          { "description": "Paccar 5\" Thin Gasket", "partNumber": "1844253PE:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1844253PE-LR.gif" },
+          { "description": "Paccar 5\" Fat Gasket", "partNumber": "1827320PE:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1827320PE-LR.gif" }
+        ],
+        "clamps": [
+          { "description": "4\" Thin Clamp", "partNumber": "90-0012:PB", "imageURL": "" },
+          { "description": "5\" Thin Clamp", "partNumber": "90-0013:PB", "imageURL": "" },
+          { "description": "5\" Fat Clamp", "partNumber": "1827321PE:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1827321PE-LR.gif" }
         ]
       }
     },
     "misc": {
       "groups": {
         "wiperBlades": [
-          {
-            "description": "16\" Blade",
-            "partNumber": "37-160:TCG",
-            "imageURL": ""
-          },
-          {
-            "description": "18\" Blade",
-            "partNumber": "37-180:TCG",
-            "imageURL": ""
-          },
-          {
-            "description": "20\" Blade",
-            "partNumber": "37-205:TCG",
-            "imageURL": ""
-          },
-          {
-            "description": "22\" Blade",
-            "partNumber": "37-225:TCG",
-            "imageURL": ""
-          }
+          { "description": "16\" Blade", "partNumber": "37-160:TCG", "imageURL": "" },
+          { "description": "18\" Blade", "partNumber": "37-180:TCG", "imageURL": "" },
+          { "description": "20\" Blade", "partNumber": "37-205:TCG", "imageURL": "" },
+          { "description": "22\" Blade", "partNumber": "37-225:TCG", "imageURL": "" }
         ],
         "misc": [
-          {
-            "description": "Peterbilt AC Seal Kit",
-            "partNumber": "790-1349:R51",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif"
-          },
-          {
-            "description": "Red Coolant 50/50",
-            "partNumber": "ZXEDRU1:VLV",
-            "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif"
-          }
+          { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
+          { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" }
         ]
       }
     }
