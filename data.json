@@ -1,23 +1,5 @@
 {
   "categories": {
-    "hoses": {
-      "groups": {
-        "airLines": [
-          { "description": "1/4\" Air Line", "partNumber": "90924:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "3/8\" Air Line", "partNumber": "90925:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "1/2\" Air Line", "partNumber": "90926:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "5/8\" Air Line", "partNumber": "90927:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "3/4\" Air Line", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
-        ],
-        "siliconeHoses": [
-          { "description": "1/4\" Silicone Hose", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "3/8\" Silicone Hose", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "1/2\" Silicone Hose", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "3/4\" Silicone Hose", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
-          { "description": "1\" Silicone Hose", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
-        ]
-      }
-    },
     "fittings": {
       "groups": {
         "brassUnions": [
@@ -76,6 +58,26 @@
     },
     "misc": {
       "groups": {
+        "airLines": [
+          { "description": "1/4\"", "partNumber": "90924:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "3/8\"", "partNumber": "90925:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "1/2\"", "partNumber": "90926:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "5/8\"", "partNumber": "90927:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+          { "description": "3/4\"", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
+        ],
+        "siliconeHoses": [
+          { "description": "1/4\"", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "3/8\"", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "1/2\"", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "3/4\"", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
+          { "description": "1\"", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
+        ],
+        "splitLoom": [
+          { "description": "1/4\"", "partNumber": "5-023DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+          { "description": "5/8\"", "partNumber": "5-029DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+          { "description": "3/4\"", "partNumber": "5-030DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+          { "description": "1 1/2\"", "partNumber": "5-036DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" }
+        ],
         "wiperBlades": [
           { "description": "16\" Blade", "partNumber": "37-160:TCG", "imageURL": "" },
           { "description": "18\" Blade", "partNumber": "37-180:TCG", "imageURL": "" },
