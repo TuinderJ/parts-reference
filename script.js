@@ -13,6 +13,7 @@ async function main() {
     option.textContent = convert.toTextCase(category);
     categories.appendChild(option);
   }
+
   categories.value = 'default';
   categories.addEventListener('change', onCategoryChange);
 }
@@ -56,7 +57,7 @@ function onCategoryChange(event) {
   const category = data.categories[event.target.value];
 
   for (key in category.groups) {
-    new Group(key, category.groups[key]);
+    addGroup(key, category.groups[key]);
   }
   setHeaderLinks(category.groups);
 }
@@ -79,69 +80,60 @@ function setHeaderLinks(groups) {
   }
 }
 
-class Group {
-  constructor(group, parts) {
-    this.group = group;
-    this.parts = parts;
+function addGroup(group, parts) {
+  const div = document.createElement('div');
+  div.classList.add('group');
+  div.id = convert.toKebabCase(group);
 
-    const div = document.createElement('div');
-    div.classList.add('group');
-    div.id = convert.toKebabCase(group);
+  const h2 = document.createElement('h2');
+  div.appendChild(h2);
+  h2.textContent = convert.toTextCase(group);
 
-    const h2 = document.createElement('h2');
-    div.appendChild(h2);
-    h2.textContent = convert.toTextCase(group);
+  const container = document.createElement('div');
+  div.appendChild(container);
+  container.classList.add('card-container');
 
-    const container = document.createElement('div');
-    div.appendChild(container);
-    container.classList.add('card-container');
+  parts.forEach((part) => addCard(part, container));
 
-    this.parts.forEach((part) => new Card(part, container));
-
-    document.getElementById('card-container').appendChild(div);
-  }
+  document.getElementById('card-container').appendChild(div);
 }
 
-class Card {
-  constructor(part, parentElement) {
-    this.part = part;
+function addCard(part, parentElement) {
+  if (!part.description) return;
 
-    if (!this.part.description) return;
+  const MISSING_IMAGE_URL = 'https://partsconnect.rushcare.com/assets/img/370X370_No_Image.png';
 
-    const MISSING_IMAGE_URL = 'https://partsconnect.rushcare.com/assets/img/370X370_No_Image.png';
+  const card = document.createElement('div');
+  card.classList.add('card');
+  card.addEventListener('click', async () => {
+    navigator.clipboard.writeText(part.partNumber);
+    const toaster = document.querySelector('.toaster');
+    toaster.style.opacity = 1;
 
-    const card = document.createElement('div');
-    card.classList.add('card');
-    card.addEventListener('click', async () => {
-      navigator.clipboard.writeText(this.part.partNumber);
-      const toaster = document.querySelector('.toaster');
-      toaster.style.opacity = 1;
+    await new Promise((resolve) => setTimeout(resolve, 500));
+    toaster.style.transition = 'opacity 1s ease';
+    toaster.style.opacity = 0;
 
-      await new Promise((resolve) => setTimeout(resolve, 500));
-      toaster.style.transition = 'opacity 1s ease';
-      toaster.style.opacity = 0;
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+    toaster.style.transition = '';
+  });
 
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-      toaster.style.transition = '';
-    });
+  const header = document.createElement('div');
+  card.appendChild(header);
+  header.classList.add('card-header');
 
-    const header = document.createElement('div');
-    card.appendChild(header);
-    header.classList.add('card-header');
+  const h3 = document.createElement('h3');
+  header.appendChild(h3);
+  h3.textContent = part.description;
 
-    const h3 = document.createElement('h3');
-    header.appendChild(h3);
-    h3.textContent = this.part.description;
+  const p = document.createElement('p');
+  header.appendChild(p);
+  p.textContent = part.partNumber || 'No part number provided.';
 
-    const p = document.createElement('p');
-    header.appendChild(p);
-    p.textContent = this.part.partNumber || 'No part number provided.';
+  const image = document.createElement('img');
+  card.appendChild(image);
+  image.src = part.imageURL || MISSING_IMAGE_URL;
+  image.alt = part.description;
 
-    const image = document.createElement('img');
-    card.appendChild(image);
-    image.src = this.part.imageURL || MISSING_IMAGE_URL;
-    image.alt = this.part.description;
-
-    parentElement.appendChild(card);
-  }
+  parentElement.appendChild(card);
 }
