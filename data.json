@@ -85,30 +85,34 @@
           { "description": "20\" Blade", "partNumber": "37-205:TCG", "imageURL": "" },
           { "description": "22\" Blade", "partNumber": "37-225:TCG", "imageURL": "" }
         ],
+        "penray": [
+          { "description": "Brake Clean", "partNumber": "4920:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/4920_Non_Cholorinated_Brake_Cleaner-211x713-can.png" },
+          { "description": "Rubberized Undercoat", "partNumber": "4424:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4424.gif" },
+          { "description": "Engine Degreaser", "partNumber": "4220:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4220.gif" },
+          { "description": "Inner Slide Lube", "partNumber": "7005:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_7005.gif" },
+          { "description": "Mass Air Flow Cleaner", "partNumber": "2520:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/2520-Mass-Air-Flow-Sensor-Cleaner-1.png" },
+          { "description": "Penetrating Fluid", "partNumber": "4516:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4516.gif" },
+          { "description": "White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" }
+        ],
+        "permatex": [
+          { "description": "Ultra Gray Gasket Maker", "partNumber": "82194PTXUSA:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/89145_Main.png" },
+          { "description": "Carb Cleaner", "partNumber": "80279PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Throttle-Body-Carb-and-Choke-Cleaner-12-OZ-80279-1-600x600.jpg" },
+          { "description": "White Lithium Grease", "partNumber": "81981PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-White-Lithium-Grease-10.75-OZ-81981-1-600x600.jpg" },
+          { "description": "Super Glue", "partNumber": "82191PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2022/03/Permatex-82191-Super-Glue-Gel-1.png" },
+          { "description": "Electrical Parts Cleaner", "partNumber": "82588PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/82588_001.png" },
+          { "description": "Anaerobic Gasket Maker", "partNumber": "51813PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Anaerobic-Gasket-Maker-50-ML-51813-3.jpg" },
+          { "description": "Silicone Lubricant", "partNumber": "80070PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Silicone-Spray-Lubricant-16-OZ-80070-1.jpg" },
+          { "description": "Thread Sealant", "partNumber": "80632PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Thread-Sealant-With-PTFE-4-OZ.-80632-1.jpg" },
+          { "description": "Anti-Seize", "partNumber": "80078PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80078_main-2.jpg" },
+          { "description": "Spray Adhesive", "partNumber": "27828PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Headliner-Adhesive-16.75-OZ-27828-1-1.jpg" },
+          { "description": "Penetrating Fluid", "partNumber": "80052PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Fast-Brake-Super-Penetrant-Oil-12-OZ-80052-1.jpg" },
+          { "description": "Battery Protector", "partNumber": "80370PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80370_C1N1-Custom.png" }
+        ],
         "misc": [
-          { "description": "Penray Brake Clean", "partNumber": "4920:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/4920_Non_Cholorinated_Brake_Cleaner-211x713-can.png" },
-          { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
           { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" },
           { "description": "Green Coolant 50/50", "partNumber": "ZX001:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZX001.gif" },
-          { "description": "Carb Cleaner", "partNumber": "80279PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Throttle-Body-Carb-and-Choke-Cleaner-12-OZ-80279-1-600x600.jpg" },
-          { "description": "Permatex White Lithium Grease", "partNumber": "81981PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-White-Lithium-Grease-10.75-OZ-81981-1-600x600.jpg" },
-          { "description": "Permatex Super Glue", "partNumber": "82191PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2022/03/Permatex-82191-Super-Glue-Gel-1.png" },
-          { "description": "Permatex Electrical Parts Cleaner", "partNumber": "82588PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/82588_001.png" },
-          { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
-          { "description": "Penray Rubberized Undercoat", "partNumber": "4424:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4424.gif" },
-          { "description": "Penray Engine Degreaser", "partNumber": "4220:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4220.gif" },
-          { "description": "Permatex Anaerobic Gasket Maker", "partNumber": "51813PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Anaerobic-Gasket-Maker-50-ML-51813-3.jpg" },
-          { "description": "Penray Inner Slide Lube", "partNumber": "7005:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_7005.gif" },
-          { "description": "Permatex Silicone Lubricant", "partNumber": "80070PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Silicone-Spray-Lubricant-16-OZ-80070-1.jpg" },
-          { "description": "Permatex Thread Sealant", "partNumber": "80632PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Thread-Sealant-With-PTFE-4-OZ.-80632-1.jpg" },
-          { "description": "Permatex Anti-Seize", "partNumber": "80078PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80078_main-2.jpg" },
-          { "description": "Permatex Spray Adhesive", "partNumber": "27828PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Headliner-Adhesive-16.75-OZ-27828-1-1.jpg" },
-          { "description": "Permatex Penetrating Fluid", "partNumber": "80052PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Fast-Brake-Super-Penetrant-Oil-12-OZ-80052-1.jpg" },
-          { "description": "Penray Mass Air Flow Cleaner", "partNumber": "2520:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/2520-Mass-Air-Flow-Sensor-Cleaner-1.png" },
-          { "description": "Permatex Battery Protector", "partNumber": "80370PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80370_C1N1-Custom.png" },
-          { "description": "Penray Penetrating Fluid", "partNumber": "4516:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4516.gif" },
-          { "description": "Penray White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" },
-          { "description": "Permatex Ultra Gray Gasket Maker", "partNumber": "82194PTXUSA:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/89145_Main.png" }
+          { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
+          { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" }
         ]
       }
     }
