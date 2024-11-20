@@ -8,13 +8,24 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
+    <button id="scroll-to-top">Scroll To Top</button>
     <header>
       <h1>Part Quick Reference</h1>
-      <form>
-        <select name="category" id="category">
-          <option disabled default value="default">Please make a selection</option>
-        </select>
-      </form>
+      <select name="category" id="category">
+        <option disabled default value="default">Please make a selection</option>
+      </select>
+      <div>
+        <div>
+          <label for="quick-search">Quick Search</label>
+          <input type="text" id="quick-search" />
+        </div>
+        <div>
+          <ul id="quick-search-list">
+            <li>Thing1</li>
+            <li>Thing2</li>
+          </ul>
+        </div>
+      </div>
     </header>
     <div class="body">
       <div class="toaster">Copied</div>

@@ -13,12 +13,26 @@ body {
 
 /* Header */
 
+#scroll-to-top {
+  position: fixed;
+  display: none;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--bg-tertiary);
+  border: none;
+}
+
 header {
   text-align: center;
   padding: 2rem;
   margin-bottom: 2rem;
   background-color: black;
   color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
 }
 
 @media (max-width: 450px) {
@@ -28,7 +42,7 @@ header {
 }
 
 header h1 {
-  margin: 0 0 1rem 0;
+  margin: 0;
 }
 
 header select {
@@ -39,6 +53,28 @@ header select {
   background-color: var(--bg-tertiary);
   padding: 1rem;
   max-width: 95vw;
+}
+
+#quick-search-list {
+  display: none;
+  background-color: white;
+  color: black;
+  list-style: none;
+  padding: 0;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 200px;
+  z-index: 1;
+  max-height: 50vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+#quick-search-list li {
+  border: 1px solid black;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
 }
 
 /* Body */
@@ -58,7 +94,7 @@ header select {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   padding: 0.5rem;
 }
 
