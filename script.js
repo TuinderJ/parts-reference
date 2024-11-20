@@ -54,7 +54,6 @@ function onCategoryChange(event) {
   container.innerHTML = '';
 
   const category = data.categories[event.target.value];
-  console.log('changed to', event.target.value);
 
   for (key in category.groups) {
     new Group(key, category.groups[key]);
