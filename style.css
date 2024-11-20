@@ -21,6 +21,12 @@ header {
   color: white;
 }
 
+@media (max-width: 450px) {
+  header {
+    padding: 2rem 0.25rem;
+  }
+}
+
 header h1 {
   margin: 0 0 1rem 0;
 }
@@ -32,6 +38,7 @@ header select {
   border-radius: 0.5rem;
   background-color: var(--bg-tertiary);
   padding: 1rem;
+  max-width: 95vw;
 }
 
 /* Body */
@@ -43,6 +50,7 @@ header select {
 
 .body h2 {
   text-align: center;
+  padding: 0.5rem;
 }
 
 #header-links {
@@ -51,6 +59,14 @@ header select {
   flex-wrap: wrap;
   justify-content: center;
   gap: 0.25rem;
+  padding: 0.5rem;
+}
+
+@media (max-width: 450px) {
+  #header-links {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 #card-container {
@@ -65,7 +81,14 @@ header select {
   background-color: white;
   padding: 3rem;
   border-radius: 1rem;
-  width: 90%;
+  margin: 0 3rem;
+}
+
+@media (max-width: 450px) {
+  .group {
+    margin: 0;
+    padding: 1rem 0;
+  }
 }
 
 .group h2 {
@@ -111,4 +134,11 @@ header select {
   object-fit: contain;
   padding: 0.5rem 2rem;
   mix-blend-mode: darken;
+  max-width: 95vw;
+}
+
+@media (max-width: 450px) {
+  .card img {
+    padding: 0.5rem 0;
+  }
 }
