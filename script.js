@@ -95,7 +95,6 @@ function onCategorySelect(category) {
   const container = document.getElementById('card-container');
   container.innerHTML = '';
 
-  console.log(category);
   for (key in data.categories[category].groups) {
     addGroup(key, data.categories[category].groups[key]);
   }

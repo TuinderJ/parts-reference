@@ -8,7 +8,13 @@
           { "description": "1/2 Brass Union", "partNumber": "91202:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg" },
           { "description": "5/8 Brass Union", "partNumber": "91203:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/18/30/PI_Asset_1181830.jpg" },
           { "description": "3/4 Brass Union", "partNumber": "91204:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/30/60/PI_Asset_1313060.jpg" }
-        ]
+        ],
+        "plasticElbow": [
+          { "description": "1/4\" Pipe x 3/8\" Air", "partNumber": "G38-1021-0406:FB2", "imageURL": "" },
+          { "description": "1/8\" Pipe X 1/4\" Air", "partNumber": "G38-1021-0204:FB2", "imageURL": "" },
+          { "description": "1/4\" Pipe X 1/2\" Air", "partNumber": "G38-1021-0408:PB", "imageURL": "" }
+        ],
+        "plasticTee(AirBags)": [{ "description": "Fits C81-1013", "partNumber": "G38-1024-080804:PB", "imageURL": "" }]
       }
     },
     "ford": {
@@ -130,11 +136,25 @@
           { "description": "7mm Duals 11-22.5", "partNumber": "USA4247SC:PWG", "imageURL": "" },
           { "description": "7mm Duals 11-24.5", "partNumber": "USA4249SC:PWG", "imageURL": "" },
           { "description": "7mm Duals 315X80-22.5", "partNumber": "USA4255SC:PWG", "imageURL": "" },
-          { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" }
+          { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" },
+          { "description": "Trucker's Cam Tool", "partNumber": "205:PWG", "imageURL": "" }
         ],
         "misc": [
           { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
           { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" }
+        ]
+      }
+    },
+    "lights": {
+      "groups": {
+        "marker": [
+          { "description": "Truck-Lite Stepped - Amber", "partNumber": "35200Y:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200ys_3.jpg" },
+          { "description": "Truck-Lite Stepped - Red", "partNumber": "35200R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200rs_3.jpg" },
+          { "description": "Truck-Lite 3/4\" Button - Red", "partNumber": "33050R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/3/33050rf_6.jpg" },
+          { "description": "Rig Tough 3/4\" Button - Clear/Red", "partNumber": "222041CR:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_222041CR.gif" },
+          { "description": "Truck-Lite 3/4\" Button - Yellow", "partNumber": "33050Y:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/3/33050yf_3.jpg" },
+          { "description": "Rig Tough 3/4\" Button - Yellow", "partNumber": "222038Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_222038Y.gif" },
+          { "description": "Maxxima 3/4\" Button - White", "partNumber": "M09300WCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m09300wcl_main.jpg?v=3916642347" }
         ]
       }
     }

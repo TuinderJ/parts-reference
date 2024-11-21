@@ -165,13 +165,10 @@ header select {
   text-align: center;
 }
 
-.card-header h3 {
-}
-
 .card img {
   height: 15rem;
   width: 15rem;
-  object-fit: cover;
+  object-fit: contain;
   padding: 0.5rem 2rem;
   mix-blend-mode: darken;
   max-width: 95vw;
