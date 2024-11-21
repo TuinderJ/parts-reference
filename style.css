@@ -21,6 +21,7 @@ body {
   border-radius: 0.5rem;
   background-color: var(--bg-tertiary);
   border: none;
+  z-index: 10;
 }
 
 header {
@@ -164,10 +165,13 @@ header select {
   text-align: center;
 }
 
+.card-header h3 {
+}
+
 .card img {
   height: 15rem;
   width: 15rem;
-  object-fit: contain;
+  object-fit: cover;
   padding: 0.5rem 2rem;
   mix-blend-mode: darken;
   max-width: 95vw;

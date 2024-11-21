@@ -92,7 +92,9 @@
           { "description": "Inner Slide Lube", "partNumber": "7005:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_7005.gif" },
           { "description": "Mass Air Flow Cleaner", "partNumber": "2520:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/2520-Mass-Air-Flow-Sensor-Cleaner-1.png" },
           { "description": "Penetrating Fluid", "partNumber": "4516:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4516.gif" },
-          { "description": "White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" }
+          { "description": "White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" },
+          { "description": "Starting Fluid", "partNumber": "5315:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_5315.gif" },
+          { "description": "Fuel System Cleaner", "partNumber": "105032:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_105032.gif" }
         ],
         "permatex": [
           { "description": "Ultra Gray Gasket Maker", "partNumber": "82194PTXUSA:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/89145_Main.png" },
@@ -108,9 +110,29 @@
           { "description": "Penetrating Fluid", "partNumber": "80052PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Fast-Brake-Super-Penetrant-Oil-12-OZ-80052-1.jpg" },
           { "description": "Battery Protector", "partNumber": "80370PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80370_C1N1-Custom.png" }
         ],
-        "misc": [
+        "fluids": [
           { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" },
+          { "description": "Red Coolant Concentrate", "partNumber": "ZXED1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXED1.gif" },
           { "description": "Green Coolant 50/50", "partNumber": "ZX001:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZX001.gif" },
+          { "description": "Washer Fluid -20°", "partNumber": "TWS0013:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0013-PCR.gif" },
+          { "description": "Washer Fluid -30°", "partNumber": "TWS0016:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0016-PCR.gif" },
+          { "description": "Washer Fluid Bug Remover", "partNumber": "TWS0019:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0019-PCR.gif" },
+          { "description": "Power Service Fuel Cleaner", "partNumber": "4658:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs120/55/16/PI_Asset_1335516.jpg" },
+          { "description": "Diesel 911", "partNumber": "08026-12:POW", "imageURL": "https://products.blains.com/600/144/1441855.webp" },
+          { "description": "Power Service Diesel Flush", "partNumber": "3364-06:PB", "imageURL": "" },
+          { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" }
+        ],
+        "tireChains": [
+          { "description": "7mm Singles 11-22.5", "partNumber": "USA2247SC:PWG", "imageURL": "" },
+          { "description": "7mm Singles 11-24.5", "partNumber": "USA2249SC:PWG", "imageURL": "" },
+          { "description": "7mm Singles 315X80-22.5", "partNumber": "USA2255SC:PWG", "imageURL": "" },
+          { "description": "7mm Singles 445X50-22.5", "partNumber": "USA3269SC:PWG", "imageURL": "" },
+          { "description": "7mm Duals 11-22.5", "partNumber": "USA4247SC:PWG", "imageURL": "" },
+          { "description": "7mm Duals 11-24.5", "partNumber": "USA4249SC:PWG", "imageURL": "" },
+          { "description": "7mm Duals 315X80-22.5", "partNumber": "USA4255SC:PWG", "imageURL": "" },
+          { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" }
+        ],
+        "misc": [
           { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
           { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" }
         ]
