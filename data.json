@@ -40,10 +40,12 @@
         "misc": [
           { "description": "Gold Coolant", "partNumber": "VC7DILB:FRD", "imageURL": "https://parts.ford.com/images/photo-images/201/144201.jpg" },
           { "description": "Yellow Coolant", "partNumber": "VC13DLG:FRD", "imageURL": "https://parts.ford.com/images/photo-images/110/307110.jpg" },
-          { "description": "DEF", "partNumber": "PM27JUG:FRD", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg" }
+          { "description": "DEF", "partNumber": "PM27JUG:FRD", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg" },
+          { "description": "MD Shop Freon", "partNumber": "YN19:FRD", "imageURL": "" }
         ]
       }
     },
+    "isuzu": { "groups": { "fluids": [{ "description": "SCS ATF", "partNumber": "2-9009Q-200-0:IZ", "imageURL": "" }] } },
     "exhaust": {
       "groups": {
         "gaskets": [
@@ -119,6 +121,7 @@
         "fluids": [
           { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" },
           { "description": "Red Coolant Concentrate", "partNumber": "ZXED1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXED1.gif" },
+          { "description": "CAT Red Coolant 50/50", "partNumber": "2388648:CT", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CTRPL_2388648.gif" },
           { "description": "Green Coolant 50/50", "partNumber": "ZX001:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZX001.gif" },
           { "description": "Washer Fluid -20°", "partNumber": "TWS0013:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0013-PCR.gif" },
           { "description": "Washer Fluid -30°", "partNumber": "TWS0016:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0016-PCR.gif" },
@@ -126,11 +129,12 @@
           { "description": "Power Service Fuel Cleaner", "partNumber": "4658:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs120/55/16/PI_Asset_1335516.jpg" },
           { "description": "Diesel 911", "partNumber": "08026-12:POW", "imageURL": "https://products.blains.com/600/144/1441855.webp" },
           { "description": "Power Service Diesel Flush", "partNumber": "3364-06:PB", "imageURL": "" },
-          { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" }
+          { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" },
+          { "description": "EGR Cleaning Fluid", "partNumber": "1204090105:JEN", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/JENDY_1204090105-LR.gif" }
         ],
         "tireChains": [
-          { "description": "7mm Singles 11-22.5", "partNumber": "USA2247SC:PWG", "imageURL": "" },
-          { "description": "7mm Singles 11-24.5", "partNumber": "USA2249SC:PWG", "imageURL": "" },
+          { "description": "7mm Singles 11-22.5", "partNumber": "H2247SC:PWG", "imageURL": "" },
+          { "description": "7mm Singles 11-24.5", "partNumber": "H2249SC:PWG", "imageURL": "" },
           { "description": "7mm Singles 315X80-22.5", "partNumber": "USA2255SC:PWG", "imageURL": "" },
           { "description": "7mm Singles 445X50-22.5", "partNumber": "USA3269SC:PWG", "imageURL": "" },
           { "description": "7mm Duals 11-22.5", "partNumber": "USA4247SC:PWG", "imageURL": "" },
@@ -141,7 +145,16 @@
         ],
         "misc": [
           { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
-          { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" }
+          { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
+          { "description": "H11 Pigtail", "partNumber": "P74-6014:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P746014-LR.gif" },
+          { "description": "Dorman H11 Pigtail (Cheaper)", "partNumber": "84783:DYP", "imageURL": "" },
+          { "description": "Rush Badges", "partNumber": "6641002:R24", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6641002-LR.gif" },
+          { "description": "PTO Indicator Switch (White)", "partNumber": "30T38111:MU", "imageURL": "https://cdn.mpparts.com/product/500/A121A14_01.jpg" },
+          { "description": "PTO Indicator Switch (Black)", "partNumber": "30T38110:MU", "imageURL": "https://cdn.mpparts.com/product/1000/A124661_02.jpg" },
+          { "description": "Transmission Speed Sensor - 2 pin push-on", "partNumber": "K4148:FT", "imageURL": "" },
+          { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
+          { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
+          { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
         ]
       }
     },
