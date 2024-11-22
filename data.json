@@ -163,6 +163,11 @@
           { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
           { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
           { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
+        ],
+        "safety": [
+          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
+          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "466422:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
+          { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" }
         ]
       }
     },
