@@ -41,7 +41,12 @@
           { "description": "Gold Coolant", "partNumber": "VC7DILB:FRD", "imageURL": "https://parts.ford.com/images/photo-images/201/144201.jpg" },
           { "description": "Yellow Coolant", "partNumber": "VC13DLG:FRD", "imageURL": "https://parts.ford.com/images/photo-images/110/307110.jpg" },
           { "description": "DEF", "partNumber": "PM27JUG:FRD", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/mof-pm27jug_yk_xl.jpg" },
-          { "description": "MD Shop Freon", "partNumber": "YN19:FRD", "imageURL": "" }
+          { "description": "MD Shop Freon", "partNumber": "YN19:FRD", "imageURL": "" },
+          { "description": "DOT 3 Brake Fluid", "partNumber": "PM1C:FRD", "imageURL": "" },
+          { "description": "DOT 4 Brake Fluid", "partNumber": "PM20:FRD", "imageURL": "" },
+          { "description": "DOT 5.1 Brake Fluid", "partNumber": "PM21:FRD", "imageURL": "" },
+          { "description": "Metal Prep Wipe (SOLD PER WIPE)", "partNumber": "ZC31B:FRD", "imageURL": "" },
+          { "description": "Engine Shampoo", "partNumber": "ZC20:FRD", "imageURL": "" }
         ]
       }
     },
