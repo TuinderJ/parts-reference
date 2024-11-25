@@ -76,106 +76,6 @@
         ]
       }
     },
-    "misc": {
-      "groups": {
-        "airLines": [
-          { "description": "1/4\"", "partNumber": "90924:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "3/8\"", "partNumber": "90925:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "1/2\"", "partNumber": "90926:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "5/8\"", "partNumber": "90927:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
-          { "description": "3/4\"", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
-        ],
-        "siliconeHoses": [
-          { "description": "1/4\"", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "3/8\"", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "1/2\"", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "3/4\"", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
-          { "description": "1\"", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
-        ],
-        "splitLoom": [
-          { "description": "1/4\"", "partNumber": "5-023DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
-          { "description": "5/8\"", "partNumber": "5-029DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
-          { "description": "3/4\"", "partNumber": "5-030DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
-          { "description": "1\"", "partNumber": "5-032DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
-          { "description": "1 1/2\"", "partNumber": "5-036DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" }
-        ],
-        "wiperBlades": [
-          { "description": "16\" Blade", "partNumber": "37-160:TCG", "imageURL": "" },
-          { "description": "18\" Blade", "partNumber": "37-180:TCG", "imageURL": "" },
-          { "description": "20\" Blade", "partNumber": "37-205:TCG", "imageURL": "" },
-          { "description": "22\" Blade", "partNumber": "37-225:TCG", "imageURL": "" }
-        ],
-        "penray": [
-          { "description": "Brake Clean", "partNumber": "4920:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/4920_Non_Cholorinated_Brake_Cleaner-211x713-can.png" },
-          { "description": "Rubberized Undercoat", "partNumber": "4424:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4424.gif" },
-          { "description": "Engine Degreaser", "partNumber": "4220:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4220.gif" },
-          { "description": "Inner Slide Lube", "partNumber": "7005:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_7005.gif" },
-          { "description": "Mass Air Flow Cleaner", "partNumber": "2520:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/2520-Mass-Air-Flow-Sensor-Cleaner-1.png" },
-          { "description": "Penetrating Fluid", "partNumber": "4516:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4516.gif" },
-          { "description": "White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" },
-          { "description": "Starting Fluid", "partNumber": "5315:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_5315.gif" },
-          { "description": "Fuel System Cleaner", "partNumber": "105032:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_105032.gif" }
-        ],
-        "permatex": [
-          { "description": "Ultra Gray Gasket Maker", "partNumber": "82194PTXUSA:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/89145_Main.png" },
-          { "description": "Carb Cleaner", "partNumber": "80279PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Throttle-Body-Carb-and-Choke-Cleaner-12-OZ-80279-1-600x600.jpg" },
-          { "description": "White Lithium Grease", "partNumber": "81981PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-White-Lithium-Grease-10.75-OZ-81981-1-600x600.jpg" },
-          { "description": "Super Glue", "partNumber": "82191PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2022/03/Permatex-82191-Super-Glue-Gel-1.png" },
-          { "description": "Electrical Parts Cleaner", "partNumber": "82588PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/82588_001.png" },
-          { "description": "Anaerobic Gasket Maker", "partNumber": "51813PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Anaerobic-Gasket-Maker-50-ML-51813-3.jpg" },
-          { "description": "Silicone Lubricant", "partNumber": "80070PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Silicone-Spray-Lubricant-16-OZ-80070-1.jpg" },
-          { "description": "Thread Sealant", "partNumber": "80632PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Thread-Sealant-With-PTFE-4-OZ.-80632-1.jpg" },
-          { "description": "Anti-Seize", "partNumber": "80078PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80078_main-2.jpg" },
-          { "description": "Spray Adhesive", "partNumber": "27828PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Headliner-Adhesive-16.75-OZ-27828-1-1.jpg" },
-          { "description": "Penetrating Fluid", "partNumber": "80052PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Fast-Brake-Super-Penetrant-Oil-12-OZ-80052-1.jpg" },
-          { "description": "Battery Protector", "partNumber": "80370PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80370_C1N1-Custom.png" }
-        ],
-        "fluids": [
-          { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" },
-          { "description": "Red Coolant Concentrate", "partNumber": "ZXED1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXED1.gif" },
-          { "description": "CAT Red Coolant 50/50", "partNumber": "2388648:CT", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CTRPL_2388648.gif" },
-          { "description": "Green Coolant 50/50", "partNumber": "ZX001:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZX001.gif" },
-          { "description": "Washer Fluid -20°", "partNumber": "TWS0013:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0013-PCR.gif" },
-          { "description": "Washer Fluid -30°", "partNumber": "TWS0016:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0016-PCR.gif" },
-          { "description": "Washer Fluid Bug Remover", "partNumber": "TWS0019:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0019-PCR.gif" },
-          { "description": "Power Service Fuel Cleaner", "partNumber": "4658:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs120/55/16/PI_Asset_1335516.jpg" },
-          { "description": "Diesel 911", "partNumber": "08026-12:POW", "imageURL": "https://products.blains.com/600/144/1441855.webp" },
-          { "description": "Power Service Diesel Flush", "partNumber": "3364-06:PB", "imageURL": "" },
-          { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" },
-          { "description": "EGR Cleaning Fluid", "partNumber": "1204090105:JEN", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/JENDY_1204090105-LR.gif" },
-          { "description": "DEF", "partNumber": "1516-TL:PP1", "imageURL": "" }
-        ],
-        "tireChains": [
-          { "description": "7mm Singles 11-22.5", "partNumber": "H2247SC:PWG", "imageURL": "" },
-          { "description": "7mm Singles 11-24.5", "partNumber": "H2249SC:PWG", "imageURL": "" },
-          { "description": "7mm Singles 315X80-22.5", "partNumber": "USA2255SC:PWG", "imageURL": "" },
-          { "description": "7mm Singles 445X50-22.5", "partNumber": "USA3269SC:PWG", "imageURL": "" },
-          { "description": "7mm Duals 11-22.5", "partNumber": "USA4247SC:PWG", "imageURL": "" },
-          { "description": "7mm Duals 11-24.5", "partNumber": "USA4249SC:PWG", "imageURL": "" },
-          { "description": "7mm Duals 315X80-22.5", "partNumber": "USA4255SC:PWG", "imageURL": "" },
-          { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" },
-          { "description": "Trucker's Cam Tool", "partNumber": "205:PWG", "imageURL": "" }
-        ],
-        "misc": [
-          { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
-          { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
-          { "description": "H11 Pigtail", "partNumber": "P74-6014:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P746014-LR.gif" },
-          { "description": "Dorman H11 Pigtail (Cheaper)", "partNumber": "84783:DYP", "imageURL": "" },
-          { "description": "Rush Badges", "partNumber": "6641002:R24", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6641002-LR.gif" },
-          { "description": "PTO Indicator Switch (White)", "partNumber": "30T38111:MU", "imageURL": "https://cdn.mpparts.com/product/500/A121A14_01.jpg" },
-          { "description": "PTO Indicator Switch (Black)", "partNumber": "30T38110:MU", "imageURL": "https://cdn.mpparts.com/product/1000/A124661_02.jpg" },
-          { "description": "Transmission Speed Sensor - 2 pin push-on", "partNumber": "K4148:FT", "imageURL": "" },
-          { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
-          { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
-          { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
-        ],
-        "safety": [
-          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
-          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "466422:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
-          { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" }
-        ]
-      }
-    },
     "lights": {
       "groups": {
         "marker": [
@@ -228,6 +128,106 @@
           { "description": "Truck-Lite Rectangular - Yellow", "partNumber": "98003Y:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_98003Y.gif" },
           { "description": "Rig Tough 3-3/16\" Round - Red", "partNumber": "220010:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Red-Reflector.gif" }
         ]
+      },
+      "misc": {
+        "groups": {
+          "airLines": [
+            { "description": "1/4\"", "partNumber": "90924:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+            { "description": "3/8\"", "partNumber": "90925:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+            { "description": "1/2\"", "partNumber": "90926:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+            { "description": "5/8\"", "partNumber": "90927:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" },
+            { "description": "3/4\"", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
+          ],
+          "siliconeHoses": [
+            { "description": "1/4\"", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+            { "description": "3/8\"", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+            { "description": "1/2\"", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+            { "description": "3/4\"", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
+            { "description": "1\"", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
+          ],
+          "splitLoom": [
+            { "description": "1/4\"", "partNumber": "5-023DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+            { "description": "5/8\"", "partNumber": "5-029DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+            { "description": "3/4\"", "partNumber": "5-030DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+            { "description": "1\"", "partNumber": "5-032DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
+            { "description": "1 1/2\"", "partNumber": "5-036DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" }
+          ],
+          "wiperBlades": [
+            { "description": "16\" Blade", "partNumber": "37-160:TCG", "imageURL": "" },
+            { "description": "18\" Blade", "partNumber": "37-180:TCG", "imageURL": "" },
+            { "description": "20\" Blade", "partNumber": "37-205:TCG", "imageURL": "" },
+            { "description": "22\" Blade", "partNumber": "37-225:TCG", "imageURL": "" }
+          ],
+          "penray": [
+            { "description": "Brake Clean", "partNumber": "4920:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/4920_Non_Cholorinated_Brake_Cleaner-211x713-can.png" },
+            { "description": "Rubberized Undercoat", "partNumber": "4424:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4424.gif" },
+            { "description": "Engine Degreaser", "partNumber": "4220:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4220.gif" },
+            { "description": "Inner Slide Lube", "partNumber": "7005:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_7005.gif" },
+            { "description": "Mass Air Flow Cleaner", "partNumber": "2520:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/2520-Mass-Air-Flow-Sensor-Cleaner-1.png" },
+            { "description": "Penetrating Fluid", "partNumber": "4516:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4516.gif" },
+            { "description": "White Lithium Grease", "partNumber": "4816:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_4816.gif" },
+            { "description": "Starting Fluid", "partNumber": "5315:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_5315.gif" },
+            { "description": "Fuel System Cleaner", "partNumber": "105032:NRY", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PNRAY_105032.gif" }
+          ],
+          "permatex": [
+            { "description": "Ultra Gray Gasket Maker", "partNumber": "82194PTXUSA:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/89145_Main.png" },
+            { "description": "Carb Cleaner", "partNumber": "80279PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Throttle-Body-Carb-and-Choke-Cleaner-12-OZ-80279-1-600x600.jpg" },
+            { "description": "White Lithium Grease", "partNumber": "81981PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-White-Lithium-Grease-10.75-OZ-81981-1-600x600.jpg" },
+            { "description": "Super Glue", "partNumber": "82191PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2022/03/Permatex-82191-Super-Glue-Gel-1.png" },
+            { "description": "Electrical Parts Cleaner", "partNumber": "82588PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/82588_001.png" },
+            { "description": "Anaerobic Gasket Maker", "partNumber": "51813PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Anaerobic-Gasket-Maker-50-ML-51813-3.jpg" },
+            { "description": "Silicone Lubricant", "partNumber": "80070PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Silicone-Spray-Lubricant-16-OZ-80070-1.jpg" },
+            { "description": "Thread Sealant", "partNumber": "80632PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Thread-Sealant-With-PTFE-4-OZ.-80632-1.jpg" },
+            { "description": "Anti-Seize", "partNumber": "80078PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80078_main-2.jpg" },
+            { "description": "Spray Adhesive", "partNumber": "27828PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Headliner-Adhesive-16.75-OZ-27828-1-1.jpg" },
+            { "description": "Penetrating Fluid", "partNumber": "80052PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/Permatex-Fast-Brake-Super-Penetrant-Oil-12-OZ-80052-1.jpg" },
+            { "description": "Battery Protector", "partNumber": "80370PTX:PTX", "imageURL": "https://www.permatex.com/wp-content/uploads/2021/12/80370_C1N1-Custom.png" }
+          ],
+          "fluids": [
+            { "description": "Red Coolant 50/50", "partNumber": "ZXEDRU1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXEDRU1.gif" },
+            { "description": "Red Coolant Concentrate", "partNumber": "ZXED1:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZXED1.gif" },
+            { "description": "CAT Red Coolant 50/50", "partNumber": "2388648:CT", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/CTRPL_2388648.gif" },
+            { "description": "Green Coolant 50/50", "partNumber": "ZX001:VLV", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/VALVO_ZX001.gif" },
+            { "description": "Washer Fluid -20°", "partNumber": "TWS0013:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0013-PCR.gif" },
+            { "description": "Washer Fluid -30°", "partNumber": "TWS0016:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0016-PCR.gif" },
+            { "description": "Washer Fluid Bug Remover", "partNumber": "TWS0019:OW", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_TWS0019-PCR.gif" },
+            { "description": "Power Service Fuel Cleaner", "partNumber": "4658:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs120/55/16/PI_Asset_1335516.jpg" },
+            { "description": "Diesel 911", "partNumber": "08026-12:POW", "imageURL": "https://products.blains.com/600/144/1441855.webp" },
+            { "description": "Power Service Diesel Flush", "partNumber": "3364-06:PB", "imageURL": "" },
+            { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" },
+            { "description": "EGR Cleaning Fluid", "partNumber": "1204090105:JEN", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/JENDY_1204090105-LR.gif" },
+            { "description": "DEF", "partNumber": "1516-TL:PP1", "imageURL": "" }
+          ],
+          "tireChains": [
+            { "description": "7mm Singles 11-22.5", "partNumber": "H2247SC:PWG", "imageURL": "" },
+            { "description": "7mm Singles 11-24.5", "partNumber": "H2249SC:PWG", "imageURL": "" },
+            { "description": "7mm Singles 315X80-22.5", "partNumber": "USA2255SC:PWG", "imageURL": "" },
+            { "description": "7mm Singles 445X50-22.5", "partNumber": "USA3269SC:PWG", "imageURL": "" },
+            { "description": "7mm Duals 11-22.5", "partNumber": "USA4247SC:PWG", "imageURL": "" },
+            { "description": "7mm Duals 11-24.5", "partNumber": "USA4249SC:PWG", "imageURL": "" },
+            { "description": "7mm Duals 315X80-22.5", "partNumber": "USA4255SC:PWG", "imageURL": "" },
+            { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" },
+            { "description": "Trucker's Cam Tool", "partNumber": "205:PWG", "imageURL": "" }
+          ],
+          "misc": [
+            { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
+            { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
+            { "description": "H11 Pigtail", "partNumber": "P74-6014:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P746014-LR.gif" },
+            { "description": "Dorman H11 Pigtail (Cheaper)", "partNumber": "84783:DYP", "imageURL": "" },
+            { "description": "Rush Badges", "partNumber": "6641002:R24", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6641002-LR.gif" },
+            { "description": "PTO Indicator Switch (White)", "partNumber": "30T38111:MU", "imageURL": "https://cdn.mpparts.com/product/500/A121A14_01.jpg" },
+            { "description": "PTO Indicator Switch (Black)", "partNumber": "30T38110:MU", "imageURL": "https://cdn.mpparts.com/product/1000/A124661_02.jpg" },
+            { "description": "Transmission Speed Sensor - 2 pin push-on", "partNumber": "K4148:FT", "imageURL": "" },
+            { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
+            { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
+            { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
+          ],
+          "safety": [
+            { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
+            { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "466422:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
+            { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" }
+          ]
+        }
       }
     }
   }
