@@ -179,13 +179,54 @@
     "lights": {
       "groups": {
         "marker": [
-          { "description": "Truck-Lite Stepped - Amber", "partNumber": "35200Y:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200ys_3.jpg" },
-          { "description": "Truck-Lite Stepped - Red", "partNumber": "35200R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200rs_3.jpg" },
           { "description": "Truck-Lite 3/4\" Button - Red", "partNumber": "33050R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/3/33050rf_6.jpg" },
           { "description": "Rig Tough 3/4\" Button - Clear/Red", "partNumber": "222041CR:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_222041CR.gif" },
           { "description": "Truck-Lite 3/4\" Button - Yellow", "partNumber": "33050Y:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/3/33050yf_3.jpg" },
           { "description": "Rig Tough 3/4\" Button - Yellow", "partNumber": "222038Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_222038Y.gif" },
-          { "description": "Maxxima 3/4\" Button - White", "partNumber": "M09300WCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m09300wcl_main.jpg?v=3916642347" }
+          { "description": "Maxxima 3/4\" Button - White", "partNumber": "M09300WCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m09300wcl_main.jpg?v=3916642347" },
+          { "description": "Rig Tough 2\" - Incandescent - Red", "partNumber": "22001005R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-Round-Marker-Red-Incand.-.gif" },
+          { "description": "Rig Tough 2\" - LED - Red", "partNumber": "22002007R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-Round-Marker-Red-LED-.gif" },
+          { "description": "Rig Tough 2-1/2\" Round - Incandescent - Red", "partNumber": "22001002R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-1-2-Round-Marker-Red-Incand.-.gif" },
+          { "description": "Maxxima 2-1/2\" Round Clear Lense - LED - Red", "partNumber": "M11300YCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m11300rcl_main-lit.jpg?v=3916642347" },
+          { "description": "Rig Tough 2-1/2\" Round - Incandescent - Yellow", "partNumber": "22001004Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-1-2-Round-Marker-Amber-Incand.-.gif" },
+          { "description": "Rig Tough 2-1/2\" Round - LED - Yellow", "partNumber": "22001010Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-1-2-Round-Reflex-Lens-Marker-Amber.gif" },
+          { "description": "Maxxima 2-1/2\" Round - LED - Yellow", "partNumber": "M11300Y:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m11300y_main.jpg?v=3916642347" },
+          { "description": "Maxxima 2-1/2\" Round Clear Lense - LED - Yellow", "partNumber": "M11300YCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/m11300ycl_main-lit.jpg?v=3916642347" },
+          { "description": "Truck-Lite Stepped - Yellow", "partNumber": "35200Y:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200ys_3.jpg" },
+          { "description": "Truck-Lite Stepped - Red", "partNumber": "35200R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200rs_3.jpg" },
+          { "description": "Rig Tough Rectangular Push-In - Incandescent - Red", "partNumber": "22001008R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rectangular-Marker-Red.gif" },
+          { "description": "Rig Tough Rectangular Push-In - Incandescent - Yellow", "partNumber": "22001007Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rectangular-Marker-Amber.gif" },
+          { "description": "Rig Tough 6\" Oval - LED - Yellow", "partNumber": "22002009Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Oval-Super-Bright-Tail-LED-.gif" }
+        ],
+        "stopTurnTail": [
+          { "description": "Rig Tough 4\" Round - Incandescent", "partNumber": "22001006R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/4-Round-Tail-Red-Incand.-.gif" },
+          { "description": "Rig Tough 4\" Round - LED", "partNumber": "22002005R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/4-24-LED-Round-Super-Bright-Tail.gif" },
+          { "description": "Truck-Lite 4\" Round Kit - LED", "partNumber": "44030R:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_44030R.gif" },
+          { "description": "Rig Tough 6\" Oval - LED", "partNumber": "22002010R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Oval-Super-Bright-Turn-LED-.gif" },
+          { "description": "Truck-Lite 6\" Oval Flange Kit - LED", "partNumber": "60056R:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_60056R.gif" },
+          { "description": "Maxxima 6\" Oval Clear Lense - LED - Red", "partNumber": "M63322RCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/updated%20image%20sizes/m63322rcl_l.jpg?v=3916642347" },
+          { "description": "Maxxima 4\" Round - LED - Red", "partNumber": "M42322R:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/updated%20image%20sizes/m42322r-dvdf_l.jpg?v=3916642347" }
+        ],
+        "reverse": [
+          { "description": "Truck-Lite 4\" Round - LED", "partNumber": "4051-3S1G:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/4/0/4051f_6.jpg" },
+          { "description": "Truck-Lite 4\" Round - Incandescent", "partNumber": "40204:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_40204.gif" },
+          { "description": "Paccar 4\" Round Kit - LED", "partNumber": "P54-6135:OPR", "imageURL": "" }
+        ],
+        "licensePlate": [
+          { "description": "Rig Tough Rectangular Push-In", "partNumber": "22001012C:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rectangular-License-Clear.gif" },
+          { "description": "Truck-Lite Push-In Light With Grey Bracket", "partNumber": "15011TLT:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/1/5/15011f_5.jpg" },
+          { "description": "Truck-Lite Push-In Light With Black Bracket", "partNumber": "15075TLT:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/1/5/15043f_5.jpg" },
+          { "description": "Truck-Lite Round Fish Eye", "partNumber": "26331:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_26331.gif" }
+        ],
+        "grommets": [
+          { "description": "Rig Tough 2\" Round Black", "partNumber": "22000004:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-Grommet-Black-PVC.gif" },
+          { "description": "2-1/2\" Round Black", "partNumber": "22000005:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/2-1-2-Grommet-Black-PVC.gif" },
+          { "description": "Rig Tough 4\" Round Black", "partNumber": "22000003:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/4-Grommet-Black-PVC.gif" },
+          { "description": "Rig Tough 6\" Oval Black", "partNumber": "22000006:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/6-Oval-Grommet-Black-PVC.gif" }
+        ],
+        "reflectors": [
+          { "description": "Truck-Lite Rectangular - Yellow", "partNumber": "98003Y:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_98003Y.gif" },
+          { "description": "Rig Tough 3-3/16\" Round - Red", "partNumber": "220010:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Red-Reflector.gif" }
         ]
       }
     }
