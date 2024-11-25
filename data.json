@@ -14,7 +14,7 @@
           { "description": "1/8\" Pipe X 1/4\" Air", "partNumber": "G38-1021-0204:FB2", "imageURL": "" },
           { "description": "1/4\" Pipe X 1/2\" Air", "partNumber": "G38-1021-0408:PB", "imageURL": "" }
         ],
-        "plasticTee(AirBags)": [{ "description": "Fits C81-1013", "partNumber": "G38-1024-080804:PB", "imageURL": "" }]
+        "misc": [{ "description": "Plastic Tee (Air Bags) Fits C81-1013", "partNumber": "G38-1024-080804:PB", "imageURL": "" }]
       }
     },
     "ford": {
