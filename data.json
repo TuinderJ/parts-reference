@@ -212,6 +212,15 @@
           { "description": "Multi-Arm Adjuster (19.2 - 24.5 Rim)", "partNumber": "103:PWG", "imageURL": "" },
           { "description": "Trucker's Cam Tool", "partNumber": "205:PWG", "imageURL": "" }
         ],
+        "electrical": [
+          { "description": "Red Butt Connector - 22-18 Gauge", "partNumber": "71892:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/13/PI_Asset_1299913.jpg" },
+          { "description": "Blue Butt Connector - 16-14 Gauge", "partNumber": "71893:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/14/PI_Asset_1299914.jpg" }
+        ],
+        "safety": [
+          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
+          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "466422:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
+          { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" }
+        ],
         "misc": [
           { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
           { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
@@ -224,11 +233,6 @@
           { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
           { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
           { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
-        ],
-        "safety": [
-          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
-          { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "466422:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
-          { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" }
         ]
       }
     }
