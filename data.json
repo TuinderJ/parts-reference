@@ -141,12 +141,12 @@
           { "description": "3/4\"", "partNumber": "90928:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs400/18/10/PI_Asset_1181810.jpg" }
         ],
         "siliconeHoses": [
-          { "description": "1/4\"", "partNumber": "5526-025X25:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "3/8\"", "partNumber": "5526-038X600:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "1/2\"", "partNumber": "5526-050X500:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
-          { "description": "5/8\"", "partNumber": "5526-062X400:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526062X400.gif" },
-          { "description": "3/4\"", "partNumber": "5526-075X300:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
-          { "description": "1\"", "partNumber": "5526-100X200:R28", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
+          { "description": "1/4\"", "partNumber": "5526-025X25:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "3/8\"", "partNumber": "5526-038X600:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "1/2\"", "partNumber": "5526-050X500:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526038X600.gif" },
+          { "description": "5/8\"", "partNumber": "5526-062X400:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526062X400.gif" },
+          { "description": "3/4\"", "partNumber": "5526-075X300:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526075X300.gif" },
+          { "description": "1\"", "partNumber": "5526-100X200:FFL", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_5526100X200.gif" }
         ],
         "splitLoom": [
           { "description": "1/4\"", "partNumber": "5-023DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" },
@@ -233,7 +233,8 @@
           { "description": "Transmission Speed Sensor - 2 pin push-on", "partNumber": "K4148:FT", "imageURL": "" },
           { "description": "Transmission Speed Sensor - 4 pin push-on", "partNumber": "K4150:FT", "imageURL": "" },
           { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
-          { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" }
+          { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" },
+          { "description": "Battery Stud to Post Conversion", "partNumber": "6058:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/39/40/PI_Asset_1293940.jpg" }
         ]
       }
     }
