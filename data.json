@@ -247,6 +247,11 @@
           { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
           { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" },
           { "description": "Battery Stud to Post Conversion", "partNumber": "6058:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/39/40/PI_Asset_1293940.jpg" }
+        ],
+        "floorMats": [
+          { "description": "330 / 337 / 389", "partNumber": "FMPBSLUSH-NG:PB", "imageURL": "" },
+          { "description": "567", "partNumber": "PBL0G0567:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0567-LR.gif" },
+          { "description": "579", "partNumber": "PBL0G0579:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0579-LR.gif" }
         ]
       }
     }
