@@ -216,7 +216,18 @@
         ],
         "electrical": [
           { "description": "Red Butt Connector - 22-18 Gauge", "partNumber": "71892:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/13/PI_Asset_1299913.jpg" },
-          { "description": "Blue Butt Connector - 16-14 Gauge", "partNumber": "71893:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/14/PI_Asset_1299914.jpg" }
+          { "description": "Blue Butt Connector - 16-14 Gauge", "partNumber": "71893:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/14/PI_Asset_1299914.jpg" },
+          { "description": "Relay 5-Pin 12V 40/30A", "partNumber": "CB12450:PB", "imageURL": "https://assets.trpparts.com/assets/CB13150_P01_FRO_ALL-HIGH.png" },
+          {
+            "description": "Relay 5-Pin W/Shroud",
+            "partNumber": "CB12450:PB",
+            "imageURL": "https://cdn-dabid.nitrocdn.com/leYSySeqsQRRhzfoqDWDRbxDiefhsAvj/assets/images/optimized/rev-37d95ba/petetruckparts.com/wp-content/uploads/relay-5-prong-wbrkt-cb12450.jpg"
+          },
+          { "description": "Relay 4-Pin 12V 70A", "partNumber": "CB12755:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12255-LR.gif" },
+          { "description": "Relay Micro 5-Pin 12V 35/20A", "partNumber": "P27-1150:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271150-PCR.gif" },
+          { "description": "Relay Micro 5-Pin 12V 10/20A", "partNumber": "CB12300:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12300-LR.gif" },
+          { "description": "Relay Micro 5-Pin 12V 35/20A", "partNumber": "CB12255:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12755-LR.gif" },
+          { "description": "Relay Half-Micro 4-Pin 12V", "partNumber": "P27-1151:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271151-PCR.gif" }
         ],
         "safety": [
           { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "" },
