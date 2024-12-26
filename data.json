@@ -201,7 +201,8 @@
           { "description": "Power Service Diesel Flush", "partNumber": "3364-06:PB", "imageURL": "" },
           { "description": "Power Service Diesel Kleen", "partNumber": "03025-12:CE", "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Hojg6XWL.jpg" },
           { "description": "EGR Cleaning Fluid", "partNumber": "1204090105:JEN", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/JENDY_1204090105-LR.gif" },
-          { "description": "DEF", "partNumber": "1516-TL:PP1", "imageURL": "" }
+          { "description": "DEF", "partNumber": "1516-TL:PP1", "imageURL": "" },
+          { "description": "Transynd", "partNumber": "15E2E1:AT", "imageURL": "" }
         ],
         "tireChains": [
           { "description": "7mm Singles 11-22.5", "partNumber": "H2247SC:PWG", "imageURL": "" },
