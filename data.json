@@ -46,7 +46,8 @@
           { "description": "DOT 4 Brake Fluid", "partNumber": "PM20:FRD", "imageURL": "" },
           { "description": "DOT 5.1 Brake Fluid", "partNumber": "PM21:FRD", "imageURL": "" },
           { "description": "Metal Prep Wipe (SOLD PER WIPE)", "partNumber": "ZC31B:FRD", "imageURL": "" },
-          { "description": "Engine Shampoo", "partNumber": "ZC20:FRD", "imageURL": "" }
+          { "description": "Engine Shampoo", "partNumber": "ZC20:FRD", "imageURL": "" },
+          { "description": "A/C Flush", "partNumber": "YN23:FRD", "imageURL": "" }
         ]
       }
     },
