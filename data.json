@@ -98,7 +98,11 @@
           { "description": "Truck-Lite Stepped - Red", "partNumber": "35200R:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/3/5/35200rs_3.jpg" },
           { "description": "Rig Tough Rectangular Push-In - Incandescent - Red", "partNumber": "22001008R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rectangular-Marker-Red.gif" },
           { "description": "Rig Tough Rectangular Push-In - Incandescent - Yellow", "partNumber": "22001007Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rectangular-Marker-Amber.gif" },
-          { "description": "Rig Tough 6\" Oval - LED - Yellow", "partNumber": "22002009Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Oval-Super-Bright-Tail-LED-.gif" }
+          { "description": "Rig Tough 6\" Oval - LED - Yellow", "partNumber": "22002009Y:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Oval-Super-Bright-Tail-LED-.gif" },
+          { "description": "Truck-Lite Oval Lense - Amber", "partNumber": "8933AS1G:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/8/9/8933af_3.jpg" },
+          { "description": "Truck-Lite Oval - Amber", "partNumber": "1259AS1G:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/1/2/1259af_7.jpg" },
+          { "description": "Grote - Oval - Amber", "partNumber": "46793:GRE", "imageURL": "https://www.grote.com/images/46793-web_600px_x_600px.jpg" },
+          { "description": "Grote - Oval - Red", "partNumber": "46792:GRE", "imageURL": "https://www.grote.com/images/46792-web_600px_x_600px.jpg" }
         ],
         "stopTurnTail": [
           { "description": "Rig Tough 4\" Round - Incandescent", "partNumber": "22001006R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/4-Round-Tail-Red-Incand.-.gif" },
