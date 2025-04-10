@@ -163,10 +163,26 @@
           { "description": "1 1/2\"", "partNumber": "5-036DSP:PA", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/82/20/PI_Asset_1178220.jpg" }
         ],
         "wiperBlades": [
-          { "description": "16\" Blade", "partNumber": "37-160:TCG", "imageURL": "" },
-          { "description": "18\" Blade", "partNumber": "37-180:TCG", "imageURL": "" },
-          { "description": "20\" Blade", "partNumber": "37-205:TCG", "imageURL": "" },
-          { "description": "22\" Blade", "partNumber": "37-225:TCG", "imageURL": "" }
+          {
+            "description": "16\" Blade",
+            "partNumber": "37-160:TCG",
+            "imageURL": "https://imgs.search.brave.com/RipQrEV_KWtgAQXG-oDbmRnTOBKytsA7RJG351RwdMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVFJJ/Q08tQ2hpbGwtMTgt/V2ludGVyLVdlYXRo/ZXItV2luZHNoaWVs/ZC1XaXBlci1CbGFk/ZS0zNy0xODBfODBk/NzQ5ZDAtZjVjNS00/ZjU1LTk2YjEtM2Mz/NTI5MGQzYTMwLjEx/ZmFjYTI4ZTQyNzhi/ZTcxZTE1ODUyYTU3/OTI4Yjc5LmpwZWc_/b2RuSGVpZ2h0PTY0/MCZvZG5XaWR0aD02/NDAmb2RuQmc9RkZG/RkZG"
+          },
+          {
+            "description": "18\" Blade",
+            "partNumber": "37-180:TCG",
+            "imageURL": "https://imgs.search.brave.com/RipQrEV_KWtgAQXG-oDbmRnTOBKytsA7RJG351RwdMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVFJJ/Q08tQ2hpbGwtMTgt/V2ludGVyLVdlYXRo/ZXItV2luZHNoaWVs/ZC1XaXBlci1CbGFk/ZS0zNy0xODBfODBk/NzQ5ZDAtZjVjNS00/ZjU1LTk2YjEtM2Mz/NTI5MGQzYTMwLjEx/ZmFjYTI4ZTQyNzhi/ZTcxZTE1ODUyYTU3/OTI4Yjc5LmpwZWc_/b2RuSGVpZ2h0PTY0/MCZvZG5XaWR0aD02/NDAmb2RuQmc9RkZG/RkZG"
+          },
+          {
+            "description": "20\" Blade",
+            "partNumber": "37-205:TCG",
+            "imageURL": "https://imgs.search.brave.com/RipQrEV_KWtgAQXG-oDbmRnTOBKytsA7RJG351RwdMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVFJJ/Q08tQ2hpbGwtMTgt/V2ludGVyLVdlYXRo/ZXItV2luZHNoaWVs/ZC1XaXBlci1CbGFk/ZS0zNy0xODBfODBk/NzQ5ZDAtZjVjNS00/ZjU1LTk2YjEtM2Mz/NTI5MGQzYTMwLjEx/ZmFjYTI4ZTQyNzhi/ZTcxZTE1ODUyYTU3/OTI4Yjc5LmpwZWc_/b2RuSGVpZ2h0PTY0/MCZvZG5XaWR0aD02/NDAmb2RuQmc9RkZG/RkZG"
+          },
+          {
+            "description": "22\" Blade",
+            "partNumber": "37-225:TCG",
+            "imageURL": "https://imgs.search.brave.com/RipQrEV_KWtgAQXG-oDbmRnTOBKytsA7RJG351RwdMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVFJJ/Q08tQ2hpbGwtMTgt/V2ludGVyLVdlYXRo/ZXItV2luZHNoaWVs/ZC1XaXBlci1CbGFk/ZS0zNy0xODBfODBk/NzQ5ZDAtZjVjNS00/ZjU1LTk2YjEtM2Mz/NTI5MGQzYTMwLjEx/ZmFjYTI4ZTQyNzhi/ZTcxZTE1ODUyYTU3/OTI4Yjc5LmpwZWc_/b2RuSGVpZ2h0PTY0/MCZvZG5XaWR0aD02/NDAmb2RuQmc9RkZG/RkZG"
+          }
         ],
         "penray": [
           { "description": "Brake Clean", "partNumber": "4920:NRY", "imageURL": "https://penray.com/wp-content/uploads/2020/05/4920_Non_Cholorinated_Brake_Cleaner-211x713-can.png" },
