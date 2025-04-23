@@ -111,7 +111,9 @@
           { "description": "Rig Tough 6\" Oval - LED", "partNumber": "22002010R:R18", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Oval-Super-Bright-Turn-LED-.gif" },
           { "description": "Truck-Lite 6\" Oval Flange Kit - LED", "partNumber": "60056R:TK", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRCLT_60056R.gif" },
           { "description": "Maxxima 6\" Oval Clear Lense - LED - Red", "partNumber": "M63322RCL:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/updated%20image%20sizes/m63322rcl_l.jpg?v=3916642347" },
-          { "description": "Maxxima 4\" Round - LED - Red", "partNumber": "M42322R:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/updated%20image%20sizes/m42322r-dvdf_l.jpg?v=3916642347" }
+          { "description": "Maxxima 4\" Round - LED - Red", "partNumber": "M42322R:MAX", "imageURL": "https://d2sns8zsgvstoy.cloudfront.net/images/updated%20image%20sizes/m42322r-dvdf_l.jpg?v=3916642347" },
+          { "description": "Trailer STT and Reverse LH", "partNumber": "LB010202:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_LB010202.gif" },
+          { "description": "Trailer STT and Reverse RH", "partNumber": "LB010102:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_LB010102.gif" }
         ],
         "reverse": [
           { "description": "Truck-Lite 4\" Round - LED", "partNumber": "4051-3S1G:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/4/0/4051f_6.jpg" },
@@ -265,6 +267,54 @@
           { "description": "Fire Extinguisher 2.75# (Medium)", "partNumber": "440161MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_440161MTL-LR.gif" },
           { "description": "Reflective Triangles", "partNumber": "798S1G:TK", "imageURL": "https://www.truck-lite.com/media/catalog/product/cache/0717a678739a70244a5fd5515c1ed482/7/9/798g.jpg" }
         ],
+        "floorMats": [
+          { "description": "330 / 337 / 389", "partNumber": "FMPBSLUSH-NG:PB", "imageURL": "" },
+          { "description": "567", "partNumber": "PBL0G0567:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0567-LR.gif" },
+          { "description": "579", "partNumber": "PBL0G0579:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0579-LR.gif" },
+          { "description": "589", "partNumber": "PBL0G0589:PB", "imageURL": "" }
+        ],
+        "wheelChrome": [
+          { "description": "Wheel Nut Cover", "partNumber": "3100204003:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_3100204003.gif" },
+          { "description": "Drive Axle Cover", "partNumber": "3100304001:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rear-Hub-Cap-3100304001.gif" },
+          { "description": "4 Notch Steer Axle Cover", "partNumber": "3100304005:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Front-Hub-Cap-3100304005.gif" },
+          { "description": "5 Notch Steer Axle Cover", "partNumber": "3100304006:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Front-Hub-Cap-3100304006.gif" },
+          { "description": "6 Notch Steer Axle Cover", "partNumber": "3100304003:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Front-Hub-Cap-3100304003.gif" }
+        ],
+        "catwalks": [
+          {
+            "description": "1 Section",
+            "partNumber": "01-50900-0178:PB",
+            "imageURL": "https://imgs.search.brave.com/msSna_Scl1b2oT0DQwTON2rindlG-6_NWRwyTXOl_vs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZWJw/LmhlYXZ5dHJ1Y2tw/YXJ0cy5uZXQvaW1h/Z2UvUGV0ZXJiaWx0/XzU3OV9EZWNrcGxh/dGVfMTgyMTk2MF8z/XzI1NTY0NTI3XzEu/d2VicA"
+          },
+          {
+            "description": "2 Section",
+            "partNumber": "01-50900-0356:PB",
+            "imageURL": "https://imgs.search.brave.com/qf2ZI-znv9GSY6WQuD_XXuUPKxJ5UXla4PPHpBz6n3g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL3F5VUFB/T1N3QlBkbXZYV1Ev/cy1sMTYwMC5qcGc"
+          },
+          {
+            "description": "3 Section",
+            "partNumber": "01-50900-0534:PB",
+            "imageURL": "https://imgs.search.brave.com/ir1D8bbkbLfqtq3fLq7eLHFd5uf0GMU7v8esWCODi6A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waXgu/dmFuZGVyaGFhZ3Mu/Y29tLzY0MC9kZWNr/cGxhdGUtMzg2LXBl/dGVyYmlsdC01NmZm/YjBkZmQ0LmpwZw"
+          },
+          {
+            "description": "4 Section",
+            "partNumber": "01-50900-0712:PB",
+            "imageURL": "https://imgs.search.brave.com/WO7D-oLQ9pqXW9tVO_HYai4XCfrkkspIe5r7-Dk4N-4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waXgu/dmFuZGVyaGFhZ3Mu/Y29tLzY0MC9kZWNr/cGxhdGUtMzg2LXBl/dGVyYmlsdC0yNzA5/ZDJlZWIxLmpwZw"
+          },
+          {
+            "description": "5 Section",
+            "partNumber": "01-50900-0890:PB",
+            "imageURL": "https://imgs.search.brave.com/RMWst5fQSOZHFkCjEw4gyaSdBxro1zgzzYhdWM3TWYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZWJw/LmhlYXZ5dHJ1Y2tw/YXJ0cy5uZXQvaW1h/Z2UvUGV0ZXJiaWx0/XzM3OV9DYXR3YWxr/XzIxMDgxNF8xXzkz/MTVfMS53ZWJw"
+          },
+          {
+            "description": "6 Section",
+            "partNumber": "01-50900-1068:PB",
+            "imageURL": "https://imgs.search.brave.com/2mYfK44HTMgXqByFi32SyWOgaK-OSMu07nzUe9tbqCU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZWJw/LmhlYXZ5dHJ1Y2tw/YXJ0cy5uZXQvaW1h/Z2UvUEVURVJCSUxU/X3Vua25vd25fQ2F0/d2Fsay0tRGVjay1Q/bGF0ZV81MTY2NTQ1/XzFfMTExNl8yLndl/YnA"
+          },
+          { "description": "7 Section", "partNumber": "01-50900-1246:PB", "imageURL": "" },
+          { "description": "8 Section", "partNumber": "01-50900-1424:PB", "imageURL": "" },
+          { "description": "9 Section", "partNumber": "01-50900-1602:PB", "imageURL": "" }
+        ],
         "misc": [
           { "description": "Peterbilt AC Seal Kit", "partNumber": "790-1349:R51", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_7901349-LR.gif" },
           { "description": "Dawn Dish Soap", "partNumber": "910879:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/38/17/PI_Asset_1173817.jpg" },
@@ -278,14 +328,37 @@
           { "description": "Transmission Speed Sensor - 2 pin screw-on", "partNumber": "Q21-6005:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216005_1.gif" },
           { "description": "Transmission Speed Sensor - 4 pin screw-on", "partNumber": "Q21-6004:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_Q216004-LR.gif" },
           { "description": "Battery Stud Nut", "partNumber": "6034:IMS", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/IMPER_6034-LR.gif" },
-          { "description": "Battery Stud to Post Conversion", "partNumber": "6058:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/39/40/PI_Asset_1293940.jpg" }
-        ],
-        "floorMats": [
-          { "description": "330 / 337 / 389", "partNumber": "FMPBSLUSH-NG:PB", "imageURL": "" },
-          { "description": "567", "partNumber": "PBL0G0567:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0567-LR.gif" },
-          { "description": "579", "partNumber": "PBL0G0579:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_PBL0G0579-LR.gif" },
-          { "description": "589", "partNumber": "PBL0G0589:PB", "imageURL": "" }
+          { "description": "Battery Stud to Post Conversion", "partNumber": "6058:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/39/40/PI_Asset_1293940.jpg" },
+          { "description": "Rig Tough Locking Fuel Cap", "partNumber": "6405001:R31", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6405001.gif" },
+          { "description": "Paccar Locking Fuel Cap", "partNumber": "11-04859-200:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6405001.gif" },
+          { "description": "Rig Tough Non-Locking Fuel Cap", "partNumber": "6405002:R31", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6405002.gif" },
+          { "description": "Paccar Non-Locking Fuel Cap", "partNumber": "11-04859-100:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1104859100-LR.gif" },
+          { "description": "Axle Flange Gasket", "partNumber": "03-01568:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_0301568-LR.gif" },
+          { "description": "Cab Air Gun Kit", "partNumber": "9911101:R40", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_9911101-LR.gif" }
         ]
+      }
+    },
+    "shop": {
+      "groups": {
+        "heavyDutyBulkOil": [
+          { "description": "15W40", "partNumber": "105816EXX:MBL", "imageURL": "" },
+          { "description": "75W90", "partNumber": "", "imageURL": "" },
+          { "description": "50W", "partNumber": "122211EXX:MBL", "imageURL": "" }
+        ],
+        "mediumDutyBulkOil": [
+          { "description": "5W20", "partNumber": "XO5W20BSP:FRD", "imageURL": "" },
+          { "description": "5W30", "partNumber": "XO5W30BSP:FRD", "imageURL": "" },
+          { "description": "10W30", "partNumber": "XO10W30BSD:FRD", "imageURL": "" },
+          { "description": "15W40", "partNumber": "XO15W40BSD:FRD", "imageURL": "" },
+          { "description": "75W140", "partNumber": "75W140:FRD", "imageURL": "" },
+          { "description": "ATF (Mercon LV)", "partNumber": "XT10BLV:FRD", "imageURL": "" }
+        ]
+      }
+    },
+    "campaigns": {
+      "groups": {
+        "E310": [{ "description": "Brown Stuff", "partNumber": "DK5P:PB", "imageURL": "" }],
+        "E316": [{ "description": "White Bottle", "partNumber": "3364-06:PB", "imageURL": "https://m.media-amazon.com/images/I/412hN+3crCL._AC_.jpg" }]
       }
     }
   }
