@@ -45,7 +45,7 @@ const convert = {
       const char = string[i];
       if (i == 0) {
         returnValue += char.toUpperCase();
-      } else if (char === char.toUpperCase()) {
+      } else if (char === char.toUpperCase() && isNaN(char)) {
         returnValue += ` ${char}`;
       } else {
         returnValue += char;
