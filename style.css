@@ -19,7 +19,7 @@ body {
   padding: 1rem;
   margin: 1rem;
   border-radius: 0.5rem;
-  background-color: var(--bg-tertiary);
+  background-color: var(--bg-primary);
   border: none;
   z-index: 10;
 }
@@ -51,9 +51,13 @@ header select {
   font-size: larger;
   border: none;
   border-radius: 0.5rem;
-  background-color: var(--bg-tertiary);
+  background-color: var(--bg-primary);
   padding: 1rem;
   max-width: 95vw;
+}
+
+#quick-search {
+  border-radius: 0.5rem;
 }
 
 #quick-search-list {
