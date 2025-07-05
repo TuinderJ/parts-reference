@@ -201,6 +201,7 @@ function createPartsSearchList(searchTerm) {
     for (group in data.categories[category].groups) {
       data.categories[category].groups[group].forEach((part) => {
         const li = document.createElement('li');
+        console.log(part);
         if (
           !part.description.toLowerCase().includes(searchTerm.toLowerCase()) &&
           !convert.toTextCase(group).toLowerCase().includes(convert.toTextCase(searchTerm).toLowerCase()) &&

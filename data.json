@@ -250,9 +250,13 @@
           { "description": "Blue Butt Connector - 16-14 Gauge", "partNumber": "71893:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/99/14/PI_Asset_1299914.jpg" },
           { "description": "Relay 5-Pin W/Resistor Suppression", "partNumber": "3-1904131-5:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_319041315-LR.gif" },
           { "description": "Relay 5-Pin Harness", "partNumber": "H84709001:PB", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/hla-h84709001_ra_xl.jpg" },
+          { "description": "Relay 5-Pin Harness", "partNumber": "H84709001:PB", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/hla-h84709001_ra_xl.jpg" },
           { "description": "Relay 5-Pin", "partNumber": "CB12652:PB", "imageURL": "https://www2.fleetpride.com/imagesns/PDPF/AIR-1252A-1.jpg" },
-
-          { "partNumber": "CB12450:PB", "imageURL": "https://cdn-dabid.nitrocdn.com/leYSySeqsQRRhzfoqDWDRbxDiefhsAvj/assets/images/optimized/rev-37d95ba/petetruckparts.com/wp-content/uploads/relay-5-prong-wbrkt-cb12450.jpg" },
+          {
+            "description": "Relay 5-Pin Harness W/Shroud",
+            "partNumber": "CB12450:PB",
+            "imageURL": "https://cdn-dabid.nitrocdn.com/leYSySeqsQRRhzfoqDWDRbxDiefhsAvj/assets/images/optimized/rev-37d95ba/petetruckparts.com/wp-content/uploads/relay-5-prong-wbrkt-cb12450.jpg"
+          },
           { "description": "Relay 4-Pin 12V 70A", "partNumber": "CB12755:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12255-LR.gif" },
           { "description": "Relay Micro 5-Pin 12V 35/20A", "partNumber": "P27-1150:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271150-PCR.gif" },
           { "description": "Relay Micro 5-Pin 12V 10/20A", "partNumber": "CB12300:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12300-LR.gif" },
