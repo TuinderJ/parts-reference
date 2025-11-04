@@ -276,6 +276,7 @@
           { "description": "589", "partNumber": "PBL0G0589:PB", "imageURL": "" }
         ],
         "wheelChrome": [
+          { "description": "Wheel Nut Cover", "partNumber": "MW1262BK:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/TRPPC_MW1262BK.gif" },
           { "description": "Wheel Nut Cover", "partNumber": "3100204003:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_3100204003.gif" },
           { "description": "Drive Axle Cover", "partNumber": "3100304001:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Rear-Hub-Cap-3100304001.gif" },
           { "description": "4 Notch Steer Axle Cover", "partNumber": "3100304005:R25", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/Front-Hub-Cap-3100304005.gif" },
