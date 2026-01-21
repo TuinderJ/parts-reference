@@ -338,7 +338,8 @@
           { "description": "Rig Tough Non-Locking Fuel Cap", "partNumber": "6405002:R31", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_6405002.gif" },
           { "description": "Paccar Non-Locking Fuel Cap", "partNumber": "11-04859-100:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1104859100-LR.gif" },
           { "description": "Axle Flange Gasket", "partNumber": "03-01568:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_0301568-LR.gif" },
-          { "description": "Cab Air Gun Kit", "partNumber": "9911101:R40", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_9911101-LR.gif" }
+          { "description": "Cab Air Gun Kit", "partNumber": "9911101:R40", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/ROGTH_9911101-LR.gif" },
+          { "description": "MX13 Exhaust Manifold Reseal Kit", "partNumber": "2311541PE:PB", "imageURL": "" }
         ]
       }
     },
