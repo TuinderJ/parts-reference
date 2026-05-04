@@ -261,7 +261,8 @@
           { "description": "Relay Micro 5-Pin 12V 35/20A", "partNumber": "P27-1150:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271150-PCR.gif" },
           { "description": "Relay Micro 5-Pin 12V 10/20A", "partNumber": "CB12300:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12300-LR.gif" },
           { "description": "Relay Micro 5-Pin 12V 35/20A", "partNumber": "CB12255:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_CB12755-LR.gif" },
-          { "description": "Relay Half-Micro 4-Pin 12V", "partNumber": "P27-1151:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271151-PCR.gif" }
+          { "description": "Relay Half-Micro 4-Pin 12V", "partNumber": "P27-1151:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_P271151-PCR.gif" },
+          { "description": "In-line Fuse Holder", "partNumber": "80865:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/98/13/PI_Asset_1309813.jpg" }
         ],
         "safety": [
           { "description": "Fire Extinguisher 2.5# (Small)", "partNumber": "440162MTL:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_466422-LR.gif" },
