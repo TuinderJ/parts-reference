@@ -55,7 +55,9 @@
       "groups": {
         "fluids": [
           { "description": "SCS ATF", "partNumber": "2-9009Q-200-0:IZ", "imageURL": "" },
-          { "description": "Coolant Dex Cool", "partNumber": "8-12346-290-0:IZ", "imageURL": "" }
+          { "description": "Coolant Dex Cool", "partNumber": "8-12346-290-0:IZ", "imageURL": "" },
+          { "description": "Dexron III/ PS Fluid", "partNumber": "2-9405P-815-0:IZ", "imageURL": "" },
+          { "description": "Dexron VI", "partNumber": "2-9005P-202-0:IZ", "imageURL": "https://static.summitracing.com/global/images/prod/xlarge/ado-10-9394_xl.jpg" }
         ]
       }
     },
