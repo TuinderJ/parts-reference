@@ -76,6 +76,11 @@
           { "description": "4\" Thin Clamp", "partNumber": "90-0012:PB", "imageURL": "" },
           { "description": "5\" Thin Clamp", "partNumber": "90-0013:PB", "imageURL": "" },
           { "description": "5\" Fat Clamp", "partNumber": "1827321PE:PB", "imageURL": "https://cdn.partsconnect.rushcare.com/images/370X370/PACCR_1827321PE-LR.gif" }
+        ],
+        "heatWrap": [
+          { "description": "1 1/2\" Sleeve", "partNumber": "31910:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/79/64/PI_Asset_1317964.jpg" },
+          { "description": "2\" Tape Roll", "partNumber": "31906:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/79/57/PI_Asset_1317957.jpg" },
+          { "description": "12\" Tape Roll", "partNumber": "31902:IMS", "imageURL": "https://www.imperialsupplies.com/ProductImageThumbs1000/79/58/PI_Asset_1317958.jpg" }
         ]
       }
     },
